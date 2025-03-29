@@ -18,7 +18,7 @@ Tenemos especialidades donde podrás aprender de grandes expertos del área y do
     <img src="https://skillicons.dev/icons?i=github,notion" />
   </a>
 </div>
-<a href="https://github.com/gittogethers/cdmx">Github CDMX</a>y  <a href="https://www.notion.com">Notion Campus Leaders</a> han sido nuestros colaboradores, socios y amigos para poder realizar grandes proyectos y eventos donde nuestro objetivo siempre es que ustedes puedan aprender algo para que puedan crecer profesionalmente, ya sea desde usar nuevas tecnologías hasta ser un poco más organizado. 
+<a href="https://github.com/gittogethers/cdmx">Github CDMX</a> y <a href="https://www.notion.com">Notion Campus Leaders</a> han sido nuestros colaboradores, socios y amigos para poder realizar grandes proyectos y eventos donde nuestro objetivo siempre es que ustedes puedan aprender algo para que puedan crecer profesionalmente, ya sea desde usar nuevas tecnologías hasta ser un poco más organizado. 
 
 Muchos de los eventos que hemos hecho no habrían podido lograrse sin ellos y es por eso que estamos muy agradecidos y contentos de poder trabajar con gente tan talentosa. ¡Gracias por poder hacer que la comunidad crezca juntos!💙
 
