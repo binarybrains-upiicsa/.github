@@ -111,8 +111,8 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
   <!-- P.D: Si ya son 4 personas en una fila, agregar otro <tr align="center"></tr> justo arriba de esta linea y seguir los mismas instrucciones de los <td>. Para que no se vea amontonado. -->
 </table>
 
-![RECAP](https://github.com/user-attachments/assets/7e6072a8-556f-432c-b0e3-aea511efb8ed)
 
+![RECAP](https://github.com/user-attachments/assets/b7cbf636-70f4-461b-95a9-7f019efe4d38)
 
 ## Nuestras redes sociales
 <div align="center">
