@@ -44,3 +44,20 @@ A nosotros nos encanta utilizarlo porque es un lugar donde nosotros podemos comp
 
 
 ![RECAP](https://github.com/user-attachments/assets/7e6072a8-556f-432c-b0e3-aea511efb8ed)
+
+
+## Nuestras redes sociales
+<div align="center">
+  <a href="https://www.linkedin.com/company/binary-brains-upiicsa/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/bbupiicsa/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</div>
+<br/>
+<p align="center">
+  <a href="https://discord.gg/McaTxBqeVr">
+    Unete a nuestro Discord
+  </a>
+</p>
