@@ -16,8 +16,9 @@ Tenemos especialidades donde podrás aprender de grandes expertos del área y do
 ## Nuestros partners 
 ### Notion 
 <div align="center">
-<img width="250" alt="Notion Campus Leader baner" src="https://github.com/user-attachments/assets/51b4d226-9663-4ced-8eb8-e0660f6ccf67">
+<img width="250" alt="Notion Campus Leader baner" src="https://github.com/user-attachments/assets/a9d27916-e1bb-4dda-9dcc-b265a3fae058">
 </div>
+
 
 ## Cómo formar parte
 
