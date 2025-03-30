@@ -94,13 +94,13 @@ Nos esforzamos por crear un ambiente acogedor e inclusivo para todos. Por favor,
         </a>
       </p>
       <p align="center">
-        <strong>@edudom</strong><br>
+        <strong>@edu_domn</strong><br>
         Co-fundador<br>
         <br>
-        <a href="">
+        <a href="https://github.com/EduDN">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/>
         </a>
-        <a href="">
+        <a href="https://www.linkedin.com/in/eduardo-dom%C3%ADnguez-navarrete-5703ba191/">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
