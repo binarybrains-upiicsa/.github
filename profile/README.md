@@ -7,8 +7,13 @@ Desarrollamos proyectos en diversas áreas, desde desarrollo web hasta inteligen
 
 ## Áreas 💻
 <img width="1436" alt="Areas baner" src="https://github.com/user-attachments/assets/93360958-78d6-474a-aef3-279318de72c3" />
-Tenemos especialidades donde podrás aprender de grandes expertos del área y donde realizarás proyectos enfocados en lo que te gusta. 
-
+Tenemos especialidades donde podrás aprender de grandes expertos del área y donde realizarás proyectos enfocados en lo que te gusta. Elige el que más te guste! 
+<br> <br>
+<div align="center">
+  <a href="https://github.com/binarybrains-upiicsa/Desarrollo-web">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/binarybrains-upiicsa/Desarrollo-web?style=for-the-badge&label=Desarrollo-web&labelColor=%231b6fc1&color=%233092ec">
+  </a>
+</div>
 
 ## Próximos eventos 🚀
 Actualmente estamos realizando <a href="https://github.com/binarybrains-upiicsa/BB-101">BB-101</a>, un curso de introducción a informática inspirado en CS50. Es impartido en UPIICSA en el salón ISISA 01 los jueves de 13:00 - 15:30. 
