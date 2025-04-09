@@ -4,3 +4,4 @@ Impulsar y fomentar a las nuevas generaciones el conocimiento, la pasión y la u
 
 # Visión 
 
+Buscamos ser la principal comunidad de México de aprendizaje y desarrollo profesional en carreras STEM. 
