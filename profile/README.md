@@ -13,7 +13,7 @@ Tenemos especialidades donde podrás aprender de grandes expertos del área y do
   <a href="https://github.com/binarybrains-upiicsa/Desarrollo-web">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/binarybrains-upiicsa/Desarrollo-web?style=for-the-badge&label=Desarrollo-web&labelColor=%231b6fc1&color=%233092ec">
   </a>
-  <a href="https://github.com/binarybrains-upiicsa/README_AI/blob/main/README.md">
+  <a href="https://github.com/binarybrains-upiicsa/README_AI/tree/main">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/binarybrains-upiicsa/README_AI?style=for-the-badge&label=AI&labelColor=%231b6fc1&color=%233092ec">
   </a>
 </div>
