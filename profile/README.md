@@ -19,7 +19,7 @@ Tenemos especialidades donde podrás aprender de grandes expertos del área y do
 </div>
 
 ## Próximos eventos 🚀
-Actualmente estamos realizando <a href="https://github.com/binarybrains-upiicsa/BB-101">BB-101</a>, un curso de introducción a informática inspirado en CS50. Es impartido en UPIICSA en el salón ISISA 01 los jueves de 13:00 - 15:30. 
+Actualmente estamos realizando <a href="https://github.com/binarybrains-upiicsa/BB-101">BB-101</a>, un curso de introducción a informática inspirado en CS50. Es impartido en UPIICSA en la aula modelo en el edificio de ligeros todos los martes de 15:00 - 17:00. 
 
 
 ## Nuestros amigos 🎉
