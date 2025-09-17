@@ -24,8 +24,11 @@ Actualmente estamos realizando <a href="https://github.com/binarybrains-upiicsa/
 
 ## Nuestros amigos 🎉
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,notion" />
+  <a href="https://github.com/binarybrains-upiicsa">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://untalbry.notion.site/Binary-Brains-7ce88d6234d94f9ca1a1cd10e8ecc2eb">
+    <img src="https://skillicons.dev/icons?i=notion" />
   </a>
 </div>
 <a href="https://github.com/gittogethers/cdmx">Github CDMX</a> y <a href="https://www.notion.com">Notion Campus Leaders</a> han sido nuestros colaboradores, socios y amigos para poder realizar grandes proyectos y eventos donde nuestro objetivo siempre es que ustedes puedan aprender algo para que puedan crecer profesionalmente, ya sea desde usar nuevas tecnologías hasta ser un poco más organizado. 
